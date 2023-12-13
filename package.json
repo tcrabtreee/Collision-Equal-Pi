@@ -1,0 +1,11 @@
+{
+  "name": "collision-equals-pi",
+  "version": "1.0.0",
+  "description": "Simple, single-threaded, simulator of collisions between two objects with different masses to caluclate pi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Crabtree (tcrabtree - GitHub)",
+  "license": "ISC"
+}
