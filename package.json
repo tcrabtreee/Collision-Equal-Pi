@@ -1,7 +1,7 @@
 {
-  "name": "collision-equals-pi",
+  "name": "collisions-equal-pi",
   "version": "1.0.0",
-  "description": "Simple, single-threaded, simulator of collisions between two objects with different masses to caluclate pi.",
+  "description": "Simple, single-threaded, simulator of collisions between two objects with different masses to calculate pi.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
